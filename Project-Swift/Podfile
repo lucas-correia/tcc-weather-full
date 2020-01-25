@@ -1,0 +1,15 @@
+platform :ios, “10.0”
+use_frameworks!
+
+target 'Project-Swift' do
+ 
+pod 'Alamofire', ‘4’
+pod 'SwiftyJSON'
+pod 'SCLAlertView'
+pod 'GzipSwift'
+pod 'Kingfisher', '~> 4.0'
+pod 'NVActivityIndicatorView', '~> 4.0'
+pod 'Firebase/Core'
+pod 'Firebase/Messaging'
+
+end
